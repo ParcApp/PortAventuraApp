@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:stretchColumns="0"
+        android:shrinkColumns="1" >
+
+        <TableRow
+            android:id="@+id/shambala"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/shambalaIMG"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/shambhala"
+                />
+
+            <TextView
+                android:id="@+id/shambalaTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/shambalaTime"
+                android:textSize="30sp"
+                android:textColor="#FE5F35" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/furiusBaco"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/furiusBacoIMG"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/furiusbaco" />
+
+            <TextView
+                android:id="@+id/furiusBacoTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/furiusBacoTime"
+                android:textSize="30sp"
+                android:textColor="#FE5F35" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/dragonKhan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/dragonKhanIMG"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/dragonkhan" />
+
+            <TextView
+                android:id="@+id/dragonKhanTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dragonKhanTime"
+                android:textSize="30sp"
+                android:textColor="#FE5F35" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/huracanCondor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/huracanCondorIMG"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/hurakancondor" />
+
+            <TextView
+                android:id="@+id/huracanCondorTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/huracanCondorTime"
+                android:textSize="30sp"
+                android:textColor="#FE5F35" />
+
+        </TableRow>
+        
+         <TableRow
+            android:id="@+id/stampida"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+             <ImageView
+                 android:id="@+id/stampidaIMG"
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent"
+                 android:src="@drawable/stampida" />
+
+             <TextView
+                 android:id="@+id/stampidaTime"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="@string/stampidaTime"
+				 android:textSize="30sp"
+				 android:textColor="#FE5F35"/>
+
+        </TableRow>
+        
+          <TableRow
+            android:id="@+id/temploDelFuego"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+              <ImageView
+                  android:id="@+id/temploDelFuegoIMG"
+                  android:layout_width="fill_parent"
+                  android:layout_height="fill_parent"
+                  android:src="@drawable/templodelfuego" />
+
+              <TextView
+                  android:id="@+id/temploDelFuegoTime"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/temploDelFuegoTime"
+                  android:textSize="30sp"
+                  android:textColor="#FE5F35" />
+
+        </TableRow>
+        
+           <TableRow
+            android:id="@+id/tutukiSplash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+               <ImageView
+                   android:id="@+id/tutukiSplashIMG"
+                   android:layout_width="fill_parent"
+                   android:layout_height="fill_parent"
+                   android:src="@drawable/tutukisplash" />
+
+               <TextView
+                   android:id="@+id/tutukiSplashTime"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/tutukiSplashTime" 
+                   android:textSize="30sp"
+                   android:textColor="#FE5F35"/>
+
+        </TableRow>
+        
+            <TableRow
+            android:id="@+id/grandCanyonRapids"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+                <ImageView
+                    android:id="@+id/grandCanyonRapidsIMG"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:src="@drawable/grandcanyonrapids" />
+
+                <TextView
+                    android:id="@+id/grandCanyonRapidsTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/grandCanyonRapidsTime" 
+                    android:textSize="30sp"
+                    android:textColor="#FE5F35"/>
+
+        </TableRow>
+
+            <TableRow
+                android:id="@+id/silverRiverFlume"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                   <ImageView
+                    android:id="@+id/silverRiverFlumeIMG"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:src="@drawable/silverriverflume" />
+
+                   <TextView
+                       android:id="@+id/silverRiverFlumeTime"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="@string/silverRiverFlumeTime" 
+                       android:textSize="30sp"
+                       android:textColor="#FE5F35"/>
+             
+            </TableRow>
+         <TableRow
+            android:id="@+id/eldiablo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+                 <ImageView
+                     android:id="@+id/eldiabloIMG"
+                     android:layout_width="fill_parent"
+                     android:layout_height="fill_parent"
+                     android:src="@drawable/eldiablo" />
+
+                 <TextView
+                     android:id="@+id/eldiabloTime"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="@string/eldiabloTime" 
+                     android:textSize="30sp"
+                     android:textColor="#FE5F35"/>
+
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/seaOdyssey"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+                 <ImageView
+                     android:id="@+id/seaOdysseyIMG"
+                     android:layout_width="fill_parent"
+                     android:layout_height="fill_parent"
+                     android:src="@drawable/seaodyssey" />
+
+                 <TextView
+                     android:id="@+id/seaOdysseyTime"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="@string/seaOdysseyTime" 
+                     android:textSize="30sp"
+                     android:textColor="#FE5F35"/>
+
+        </TableRow>
+       
+    </TableLayout>
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Port Aventura</string>
+	<string name="shambalaTime">00:50</string>
+	<string name="furiusBacoTime">00:35</string>
+	<string name="huracanCondorTime">00:45</string>
+	<string name="dragonKhanTime">00:15</string>
+	<string name="stampidaTime">00:20</string>
+	<string name="tutukiSplashTime">00:25</string>
+	<string name="silverRiverFlumeTime">00:10</string>
+	<string name="grandCanyonRapidsTime">00:55</string>
+	<string name="temploDelFuegoTime">00:15</string>
+	<string name="seaOdysseyTime">00:05</string>
+	<string name="botonTiming">Acceso al tiempo de Atraccion</string>
+	<string name="eldiabloTime">00:32</string>
+	<string name="tituloTimming">Tiempo de espera por Atraccion</string>
+	<string name="tituloHorario">Horario de los Espectaculos</string>
+	<string name="botonShow">Horario de los Espectaculos</string>
+	<string name="sesamo">Sésamo Parade</string>
+	<string name="sesamoTime">--:--</string>
+	<string name="aloha">Aloha Tahiti</string>
+	<string name="alohaTime">--:--</string>
+	<string name="aves">Aves del Paraíso</string>
+	<string name="avesTime">--:--</string>
+	<string name="pareos">Pareos en Bora-Bora</string>
+	<string name="pareosTime">--:--</string>
+	<string name="seaodissey4d">Sea Odissey 4D</string>
+	<string name="seaodissey4dTime">--:--</string>
+	<string name="bubblebou">Bubblebou</string>
+	<string name="bubblebouTime">--:--</string>
+	<string name="music">Music Generation</string>
+	<string name="musicTime">--:--</string>
+	<string name="shaolin">Los Shaolin de Shambhala</string>
+	<string name="shaolinTime">--:--</string>
+	<string name="tfuego">Templo del Fuego</string>
+	<string name="tfuegoTime">--:--</string>
+	<string name="bailam">Baila Mexico</string>
+	<string name="bailamTime">--:--</string>
+	<string name="bang">Bang Bang West</string>
+	<string name="bangTime">--:--</string>
+	<string name="atraco">Atraco al Salon</string>
+	<string name="atracoTime">--:--</string>
+	<string name="saventura">Sésamoaventura</string>
+	<string name="saventuraTime">--:--</string>
+	<string name="lahora">¡Es la hora de la aventura!</string>
+	<string name="lahoraTime">--:--</string>		
+</resources>
